@@ -1,3 +1,6 @@
+## Blah Blah important-ish notes
+* Every script utilizes States, Events, Functions, and Variables.
+### States
 ## General functions used in LSL Scripting 
 * Side commments: //
 ``` LSL
