@@ -11,7 +11,7 @@ At minimum:
 default
 {
   state_entry()
-{
-}
+  {
+  }
 }
 ```
