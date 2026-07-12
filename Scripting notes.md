@@ -4,6 +4,9 @@
 * Generally written one state- Scipts can define multiple
 * Contains events that relate to each other
 * Exp: Cars. Moving state- going forward; accelerating. Stopped state- not moving; at rest
+### Events
+* External or internal triggers that execute certain code
+* Collection of information and code to trigger
 ## General functions used in LSL Scripting 
 * Side commments: //
 ``` LSL
