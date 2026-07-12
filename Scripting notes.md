@@ -10,7 +10,7 @@ At minimum:
 ``` LSL
 default
 {
-  state entry()
+  state_entry()
 {
 }
 }
