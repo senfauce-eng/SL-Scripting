@@ -5,3 +5,13 @@
 // This ignores code
 // So you may add context and organization to your scripts/
 ```
+## LSL script structure
+At minimum:
+``` LSL
+default
+{
+  state entry()
+{
+}
+}
+```
